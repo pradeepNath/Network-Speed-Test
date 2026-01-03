@@ -42,7 +42,7 @@ All speed tests run in a **background thread**, while the Tkinter main thread sa
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/pradeepNath/Network_Speed_Test.git
+git clone https://github.com/pradeepNath/Network-Speed-Test.git
 cd Network_Speed_Test
 ```
 
